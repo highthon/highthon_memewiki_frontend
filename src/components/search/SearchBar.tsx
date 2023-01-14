@@ -2,7 +2,7 @@ import styled from "@emotion/styled";
 import SearchIcon from "../../assets/Search.png";
 
 const SearchBar = () => {
-  return <SearchBarBox />;
+  return <SearchBarBox placeholder="태그를 검색해주세요." />;
 };
 
 const SearchBarBox = styled.input`
