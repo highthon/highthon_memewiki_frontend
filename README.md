@@ -1,1 +1,0 @@
-# highthon_memewiki_frontend
